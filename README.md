@@ -18,7 +18,7 @@
 
 
 [linkedin]: https://linkedin.com/in/Camsut3<!--
-**Camsut3/Camsut3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Camsut3/Camsut3**  is a IT Professional
 
 
 -->
