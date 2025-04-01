@@ -1,4 +1,4 @@
-## Hi, I'm Crystal an IT Proffesional 👋
+## Hi, I'm Crystal an IT Professional 👋
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
