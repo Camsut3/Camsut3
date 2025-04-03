@@ -10,13 +10,11 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Camsut3/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[linkedin]: [
-](https://www.linkedin.com/in/crystal-sutton-a64382333/?trk=public-profile-join-page)
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+www.linkedin.com/in/camsut3
 
 
-
-
-**Camsut3/Camsut3**  is a IT Professional
 
 
 -->
