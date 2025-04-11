@@ -3,6 +3,16 @@
 
 <h2> Information Technology Projects:</h2>
 
+
+## About Me
+
+I'm a tech enthusiast, content creator, and certified Course Careers alum with a background in IT support and a passion for solving real-world problems through technology. Whether it’s setting up helpdesk systems like osTicket on Microsoft Azure or diving into MySQL and Windows environments, I enjoy building and learning along the way.
+
+## Objective
+
+Motivated and tech-savvy professional with a background in IT support and hands-on experience in helpdesk systems, cloud platforms, and MySQL databases. Seeking opportunities to grow in the tech industry where I can apply my problem-solving skills, expand my technical knowledge, and contribute to innovative, user-centered solutions. Eager to join a forward-thinking team that values creativity, continuous learning, and impactful work.
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Camsut3/osticket-prereqs-1)
   - [osTicket: Post-Installation Configuration](https://github.com/Camsut3/post-install-config)
